@@ -1,0 +1,10 @@
+QMainWindow {
+    background-image: url("images/code_image.jpg")
+}
+
+
+QPushButton {
+    background-color: #7286D3;  
+}
+
+
