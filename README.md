@@ -1,5 +1,5 @@
 
-# Caesar Cipher GUI
+# Caesar Cipher
 
 
 ![caesar project](https://user-images.githubusercontent.com/121177058/216630186-0b17d3c1-bf2a-418c-9646-43a30991de75.jpg)
